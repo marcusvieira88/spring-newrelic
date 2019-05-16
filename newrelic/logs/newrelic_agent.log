@@ -1,0 +1,34 @@
+May 16, 2019 22:15:54 +0200 [86877 1] com.newrelic INFO: Writing to New Relic log file: /Users/marcus/Documents/estudos/spring-petclinic/newrelic/logs/newrelic_agent.log
+May 16, 2019 22:15:54 +0200 [86877 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_191
+May 16, 2019 22:15:54 +0200 [86877 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.191-b12
+May 16, 2019 22:15:54 +0200 [86877 1] com.newrelic INFO: OS Mac OS X version 10.14.4 arch x86_64
+May 16, 2019 22:15:54 +0200 [86877 1] com.newrelic INFO: Agent Host: Marcuss-MBP.fritz.box IP: 192.168.178.32
+May 16, 2019 22:15:54 +0200 [86877 1] com.newrelic INFO: New Relic Agent v5.0.0 is initializing...
+May 16, 2019 22:15:56 +0200 [86877 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+May 16, 2019 22:15:56 +0200 [86877 1] com.newrelic INFO: Setting audit_mode to false
+May 16, 2019 22:15:56 +0200 [86877 1] com.newrelic INFO: Setting protocol to "https"
+May 16, 2019 22:15:57 +0200 [86877 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/marcus/Documents/estudos/spring-petclinic/newrelic/./newrelic.yml
+May 16, 2019 22:15:57 +0200 [86877 1] com.newrelic INFO: New Relic Agent v5.0.0 has started
+May 16, 2019 22:15:57 +0200 [86877 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@21b8d17c
+May 16, 2019 22:15:57 +0200 [86877 1] com.newrelic INFO: Premain startup complete in 4,960ms
+May 16, 2019 22:16:02 +0200 [86877 1] com.newrelic INFO: Server Info: Apache Tomcat/9.0.17
+May 16, 2019 22:16:07 +0200 [86877 30] com.newrelic INFO: Host name is Marcuss-MBP.fritz.box, display host Marcuss-MBP.fritz.box for application Spring PetClinic Example
+May 16, 2019 22:16:08 +0200 [86877 30] com.newrelic INFO: Collector redirection to collector-010.newrelic.com:443
+May 16, 2019 22:16:09 +0200 [86877 30] com.newrelic INFO: Max payload size is 1,000,000 bytes
+May 16, 2019 22:16:09 +0200 [86877 30] com.newrelic INFO: Agent run id: BFvqVNn1ZjAyACPFTBNznOlc3cV4AAIBAAAjHQECABNznOcDAAU1LjAuMAAVTWFyY3Vzcy1NQlAuZnJpdHouYm94ABhTcHJpbmcgUGV0Q2xpbmljIEV4YW1wbGU
+May 16, 2019 22:16:09 +0200 [86877 30] com.newrelic INFO: Agent 86877@Marcuss-MBP.fritz.box/Spring PetClinic Example connected to collector.newrelic.com:443
+May 16, 2019 22:16:09 +0200 [86877 30] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2344268/applications/326343911
+May 16, 2019 22:16:09 +0200 [86877 30] com.newrelic INFO: Using default collector host: collector.newrelic.com
+May 16, 2019 22:16:09 +0200 [86877 30] com.newrelic INFO: Using default collector host: collector.newrelic.com
+May 16, 2019 22:16:09 +0200 [86877 30] com.newrelic INFO: Real user monitoring is enabled with auto instrumentation for application "Spring PetClinic Example"
+May 16, 2019 23:12:58 +0200 [86877 6] com.newrelic.agent.Agent INFO: JVM is shutting down
+May 16, 2019 23:12:58 +0200 [86877 59] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@4de9b7be tried to finish but ServiceManager not started
+May 16, 2019 23:12:58 +0200 [86877 6] com.newrelic.agent.Agent INFO: New Relic Agent has shutdown
+May 16, 2019 23:13:04 +0200 [87348 1] com.newrelic INFO: Writing to New Relic log file: /Users/marcus/Documents/estudos/spring-petclinic/newrelic/logs/newrelic_agent.log
+May 16, 2019 23:13:04 +0200 [87348 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_191
+May 16, 2019 23:13:04 +0200 [87348 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.191-b12
+May 16, 2019 23:13:04 +0200 [87348 1] com.newrelic INFO: OS Mac OS X version 10.14.4 arch x86_64
+May 16, 2019 23:13:04 +0200 [87348 1] com.newrelic INFO: Agent Host: Marcuss-MBP.fritz.box IP: 192.168.178.32
+May 16, 2019 23:13:04 +0200 [87348 1] com.newrelic INFO: New Relic Agent v5.0.0 is initializing...
+May 16, 2019 23:13:05 +0200 [87348 6] com.newrelic.agent.Agent INFO: JVM is shutting down
+May 16, 2019 23:13:05 +0200 [87348 6] com.newrelic.agent.Agent INFO: New Relic Agent has shutdown
