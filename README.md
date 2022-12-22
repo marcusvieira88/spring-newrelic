@@ -1,5 +1,5 @@
 # Introduction
-This is a Spring project for demo the NewRelic monitoring tool, it is used as example in my [blog tutorials](https://marcusvieira.tech/2019/05/16/how-monitoring-java-application-using-newrelic/). tutorials.
+This is a Spring project for demo the NewRelic monitoring tool.
 
 ### Start Spring Boot project
 ```
